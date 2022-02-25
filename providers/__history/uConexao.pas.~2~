@@ -1,0 +1,25 @@
+unit uConexao;
+
+interface
+
+uses
+  System.SysUtils, System.Classes;
+
+type
+  TConexao = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Conexao: TConexao;
+
+implementation
+
+{%CLASSGROUP 'System.Classes.TPersistent'}
+
+{$R *.dfm}
+
+end.

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/18 17:41:43.000.128,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\WebServerConsole.dproj=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/21 11:36:48.000.086,=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.pas</Transaction>
+    <Transaction>2022/02/21 11:42:11.000.397,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\controllers\uTituloController.pas=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.pas</Transaction>
+    <Transaction>2022/02/21 11:51:01.000.053,=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.pas</Transaction>
+    <Transaction>2022/02/21 13:43:18.000.116,=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.pas</Transaction>
+    <Transaction>2022/02/21 13:43:31.000.672,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\services\uTituloService.pas=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.pas</Transaction>
+    <Transaction>2022/02/21 13:45:51.000.069,=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.pas</Transaction>
+    <Transaction>2022/02/21 13:47:58.000.167,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\providers\uTituloProvider.dfm=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.dfm</Transaction>
+    <Transaction>2022/02/21 13:47:58.000.167,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\providers\uTituloProvider.pas=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit1.pas</Transaction>
+    <Transaction>2022/02/21 14:20:46.000.923,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\services\uTituloService.pas=</Transaction>
+    <Transaction>2022/02/21 14:20:53.000.606,=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit2.pas</Transaction>
+    <Transaction>2022/02/21 14:21:08.000.142,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit2.pas=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\services\uTituloService.pas</Transaction>
+    <Transaction>2022/02/21 14:21:08.000.142,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit2.dfm=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\services\uTituloService.dfm</Transaction>
+    <Transaction>2022/02/21 14:41:34.000.783,=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit2.pas</Transaction>
+    <Transaction>2022/02/21 14:41:55.000.079,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit2.dfm=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\providers\uConexao.dfm</Transaction>
+    <Transaction>2022/02/21 14:41:55.000.079,D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\Unit2.pas=D:\Users\dev-01\Documents\Embarcadero\Studio\Projects\server-console\providers\uConexao.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="controllers"/>
+    <File Path="controllers\uTituloController.pas"/>
+    <File Path="providers"/>
+    <File Path="providers\uTituloProvider.pas"/>
+    <File Path="providers\uTituloProvider.dfm"/>
+    <File Path="providers\uConexao.pas"/>
+    <File Path="providers\uConexao.dfm"/>
+    <File Path="services"/>
+    <File Path="services\uTituloService.pas"/>
+    <File Path="services\uTituloService.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

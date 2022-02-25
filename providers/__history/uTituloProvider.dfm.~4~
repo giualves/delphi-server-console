@@ -1,0 +1,28 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 150
+  Width = 215
+  object fdConexao: TFDConnection
+    Params.Strings = (
+      'Database=D:\ControlGasDados\gas-giu.fdb'
+      'User_Name=GAS'
+      'Password=g@s'
+      'DriverID=FB')
+    Left = 40
+    Top = 40
+  end
+  object fdTitulo: TFDQuery
+    Connection = fdConexao
+    SQL.Strings = (
+      'select * from titulo t where t.id = :ID')
+    Left = 136
+    Top = 32
+    ParamData = <
+      item
+        Name = 'ID'
+        DataType = ftInteger
+        ParamType = ptInput
+        Value = Null
+      end>
+  end
+end
